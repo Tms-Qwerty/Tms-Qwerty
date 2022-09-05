@@ -1,5 +1,5 @@
 ### <h2 align="center"> About me 👨🏻‍💻 </h2>
-<p align="center">Hello! My name's Emanuele and I'm a Full-Stack developer. I'm dedicated to programming after leading two companies for the last 10 years that have given me valuable experience leading teams, managing responsibilities and making decisions.</p>
+<p align="center">Hello! My name's Tomás and I'm a Full-Stack developer.</p>
 
 <p align="center">Specialized on MERN applications.</p>
 
