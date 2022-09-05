@@ -1,7 +1,6 @@
 ### <h2 align="center"> About me 👨🏻‍💻 </h2>
 <p align="center">Hello! My name's Tomás and I'm a Full-Stack developer.</p>
 
-<p align="center">Specialized on MERN applications.</p>
 
 ---
 
@@ -45,7 +44,8 @@
 <div align="center">
 <h3>Contact Info 💡</h3>
 <div id="badges">
-  <a href="www.linkedin.com/in/tomás-sánchez-martínez">
+  <a href="www.linkedin.com/in/tomás-sánchez-martínez
+">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a/>  
 </div>
