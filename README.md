@@ -44,8 +44,7 @@
 <div align="center">
 <h3>Contact Info 💡</h3>
 <div id="badges">
-  <a href="www.linkedin.com/in/tomás-sánchez-martínez
-">
+  <a href="www.linkedin.com/in/tomás-sánchez-martínez">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a/>  
 </div>
